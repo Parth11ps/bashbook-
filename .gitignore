@@ -1,0 +1,4 @@
+.DS_Store
+*.pipe
+**/friends.txt
+**/wall.txt
